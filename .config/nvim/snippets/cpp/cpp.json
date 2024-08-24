@@ -1,0 +1,41 @@
+{
+    "mytem": {
+        
+        "prefix": "mytem",
+        "body": [
+            "// ﷽",
+            "#include <bits/stdc++.h>",
+            "using namespace std;",
+            "",
+            "#define ll long long",
+            "/******** Debug Code *******/",
+            "#ifdef HAMED",
+            "#include \"/home/mohamed/debug.hpp\"",
+            "#else",
+            "#define debug(...)",
+            "#endif",
+            "",
+            "/********** Main CODE **********/",
+            "",
+            "int  solve() {",
+            "\t",
+            "\treturn 0;",
+            "}",
+            "int main() {",
+            "\tios_base::sync_with_stdio(false);",
+            "\tcin.tie(NULL);",
+            "\tint t=1;",
+            "\t// cin >> t;",
+            "\twhile (t--) {",
+            "\t\tsolve();",
+            "\t}",
+            "",
+            " return 0;",
+            "   ",
+            "}"
+        ],
+        "description": "mytem"
+    }
+
+}
+
